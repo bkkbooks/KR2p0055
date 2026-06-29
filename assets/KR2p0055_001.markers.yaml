@@ -1,0 +1,430 @@
+canonical_identifier: bkk:krp/KR2p0055/bkk/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR2p0055_tls_001-bkkxmlele1, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.1 (STRIPS 2, 1) MACHENGYUAN 5: 268 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 0, content: '', id: KR2p0055_tls_001-1a}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR2p0055_tls_001-1a.1}
+  - {type: punctuation, offset: 2, content: ':', id: KR2p0055_tls_001-bkkpn1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR2p0055_tls_001-1a.2}
+  - {type: punctuation, offset: 6, content: ',', id: KR2p0055_tls_001-bkkpn2}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR2p0055_tls_001-1a.3}
+  - {type: punctuation, offset: 11, content: '!', id: KR2p0055_tls_001-bkkpn3}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR2p0055_tls_001-1a.4}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2p0055_tls_001-1a.5}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR2p0055_tls_001-1a.6}
+  - {type: 'tls:seg', offset: 22, content: '', id: KR2p0055_tls_001-1a.7}
+  - {type: punctuation, offset: 22, content: 【, id: KR2p0055_tls_001-bkkpn4}
+  - {type: punctuation, offset: 22, content: 】, id: KR2p0055_tls_001-bkkpn5}
+  - {type: punctuation, offset: 25, content: ',', id: KR2p0055_tls_001-bkkpn6}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR2p0055_tls_001-1a.8}
+  - {type: punctuation, offset: 29, content: (, id: KR2p0055_tls_001-bkkpn7}
+  - {type: punctuation, offset: 30, content: ), id: KR2p0055_tls_001-bkkpn8}
+  - {type: punctuation, offset: 30, content: ',', id: KR2p0055_tls_001-bkkpn9}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR2p0055_tls_001-1a.9}
+  - {type: punctuation, offset: 35, content: (, id: KR2p0055_tls_001-bkkpn10}
+  - {type: punctuation, offset: 36, content: ), id: KR2p0055_tls_001-bkkpn11}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR2p0055_tls_001-1a.10}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR2p0055_tls_001-1a.11}
+  - {type: punctuation, offset: 43, content: ',', id: KR2p0055_tls_001-bkkpn12}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR2p0055_tls_001-1a.12}
+  - {type: punctuation, offset: 48, content: '!', id: KR2p0055_tls_001-bkkpn13}
+  - {type: xml-element, offset: 48, content: '', id: KR2p0055_tls_001-bkkxmlele2, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.1 (STRIPS 2, 1) MACHENGYUAN 5: 268 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 48, content: '', id: KR2p0055_tls_001-bkkxmlele3, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.2 (STRIPS 1, 23,7) MACHENGYUAN 5: 268, 281, 272 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 48, content: '', id: KR2p0055_tls_001-2a}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2p0055_tls_001-2a.1}
+  - {type: punctuation, offset: 50, content: '[', id: KR2p0055_tls_001-bkkpn14}
+  - {type: punctuation, offset: 51, content: ':', id: KR2p0055_tls_001-bkkpn15}
+  - {type: punctuation, offset: 51, content: ']', id: KR2p0055_tls_001-bkkpn16}
+  - {type: 'tls:seg', offset: 51, content: '', id: KR2p0055_tls_001-2a.2}
+  - {type: punctuation, offset: 51, content: 【, id: KR2p0055_tls_001-bkkpn17}
+  - {type: punctuation, offset: 51, content: 】, id: KR2p0055_tls_001-bkkpn18}
+  - {type: punctuation, offset: 51, content: '[', id: KR2p0055_tls_001-bkkpn19}
+  - {type: punctuation, offset: 51, content: ']', id: KR2p0055_tls_001-bkkpn20}
+  - {type: punctuation, offset: 52, content: '?', id: KR2p0055_tls_001-bkkpn21}
+  - {type: punctuation, offset: 52, content: '[', id: KR2p0055_tls_001-bkkpn22}
+  - {type: punctuation, offset: 52, content: ']', id: KR2p0055_tls_001-bkkpn23}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR2p0055_tls_001-2a.3}
+  - {type: punctuation, offset: 55, content: ”, id: KR2p0055_tls_001-bkkpn24}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR2p0055_tls_001-2a.4}
+  - {type: punctuation, offset: 57, content: ':', id: KR2p0055_tls_001-bkkpn25}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR2p0055_tls_001-2a.5}
+  - {type: punctuation, offset: 57, content: “, id: KR2p0055_tls_001-bkkpn26}
+  - {type: punctuation, offset: 61, content: ',', id: KR2p0055_tls_001-bkkpn27}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR2p0055_tls_001-2a.6}
+  - {type: punctuation, offset: 65, content: ',', id: KR2p0055_tls_001-bkkpn28}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR2p0055_tls_001-2a.7}
+  - {type: substitution, offset: 65, original: 飤, replacement: 飼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0574}}
+  - {type: punctuation, offset: 68, content: 【, id: KR2p0055_tls_001-bkkpn29}
+  - {type: punctuation, offset: 68, content: 】, id: KR2p0055_tls_001-bkkpn30}
+  - {type: punctuation, offset: 68, content: '[', id: KR2p0055_tls_001-bkkpn31}
+  - {type: punctuation, offset: 69, content: ',', id: KR2p0055_tls_001-bkkpn32}
+  - {type: 'tls:seg', offset: 69, content: '', id: KR2p0055_tls_001-2a.8}
+  - {type: punctuation, offset: 73, content: ']', id: KR2p0055_tls_001-bkkpn33}
+  - {type: punctuation, offset: 73, content: '[', id: KR2p0055_tls_001-bkkpn34}
+  - {type: punctuation, offset: 73, content: ']', id: KR2p0055_tls_001-bkkpn35}
+  - {type: xml-element, offset: 73, content: '', id: KR2p0055_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.2 (STRIPS 1, 23,7) MACHENGYUAN 5: 268, 281, 272 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 73, content: '', id: KR2p0055_tls_001-bkkxmlele5, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.3 (STRIPS 7, 8) MACHENGYUAN 5: 272 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 73, content: '', id: KR2p0055_tls_001-3a}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR2p0055_tls_001-3a.1}
+  - {type: punctuation, offset: 75, content: ':', id: KR2p0055_tls_001-bkkpn36}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR2p0055_tls_001-3a.2}
+  - {type: punctuation, offset: 75, content: “, id: KR2p0055_tls_001-bkkpn37}
+  - {type: punctuation, offset: 81, content: ',', id: KR2p0055_tls_001-bkkpn38}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR2p0055_tls_001-3a.3}
+  - {type: punctuation, offset: 81, content: 【, id: KR2p0055_tls_001-bkkpn39}
+  - {type: punctuation, offset: 81, content: 】, id: KR2p0055_tls_001-bkkpn40}
+  - {type: punctuation, offset: 86, content: ',', id: KR2p0055_tls_001-bkkpn41}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR2p0055_tls_001-3a.4}
+  - {type: punctuation, offset: 90, content: ',', id: KR2p0055_tls_001-bkkpn42}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR2p0055_tls_001-3a.5}
+  - {type: punctuation, offset: 92, content: '?', id: KR2p0055_tls_001-bkkpn43}
+  - {type: punctuation, offset: 92, content: ”, id: KR2p0055_tls_001-bkkpn44}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR2p0055_tls_001-3a.6}
+  - {type: punctuation, offset: 95, content: ':', id: KR2p0055_tls_001-bkkpn45}
+  - {type: 'tls:seg', offset: 95, content: '', id: KR2p0055_tls_001-3a.7}
+  - {type: punctuation, offset: 95, content: “, id: KR2p0055_tls_001-bkkpn46}
+  - {type: punctuation, offset: 100, content: ',', id: KR2p0055_tls_001-bkkpn47}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2p0055_tls_001-3a.8}
+  - {type: punctuation, offset: 103, content: ',', id: KR2p0055_tls_001-bkkpn48}
+  - {type: 'tls:seg', offset: 103, content: '', id: KR2p0055_tls_001-3a.9}
+  - {type: punctuation, offset: 107, content: '?', id: KR2p0055_tls_001-bkkpn49}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR2p0055_tls_001-3a.10}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR2p0055_tls_001-3a.11}
+  - {type: punctuation, offset: 111, content: 【, id: KR2p0055_tls_001-bkkpn50}
+  - {type: punctuation, offset: 111, content: 】, id: KR2p0055_tls_001-bkkpn51}
+  - {type: xml-element, offset: 111, content: '', id: KR2p0055_tls_001-bkkxmlele6, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.3 (STRIPS 7, 8) MACHENGYUAN 5: 272 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 111, content: '', id: KR2p0055_tls_001-bkkxmlele7, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.4 (STRIP 10) MACHENGYUAN 5: 273 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 111, content: '', id: KR2p0055_tls_001-4a}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR2p0055_tls_001-4a.1}
+  - {type: punctuation, offset: 111, content: '[', id: KR2p0055_tls_001-bkkpn52}
+  - {type: punctuation, offset: 111, content: ']', id: KR2p0055_tls_001-bkkpn53}
+  - {type: punctuation, offset: 116, content: '?', id: KR2p0055_tls_001-bkkpn54}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR2p0055_tls_001-4a.2}
+  - {type: punctuation, offset: 117, content: '!', id: KR2p0055_tls_001-bkkpn55}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR2p0055_tls_001-4a.3}
+  - {type: punctuation, offset: 122, content: ',', id: KR2p0055_tls_001-bkkpn56}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR2p0055_tls_001-4a.4}
+  - {type: punctuation, offset: 126, content: ',', id: KR2p0055_tls_001-bkkpn57}
+  - {type: 'tls:seg', offset: 126, content: '', id: KR2p0055_tls_001-4a.5}
+  - {type: punctuation, offset: 130, content: ',', id: KR2p0055_tls_001-bkkpn58}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR2p0055_tls_001-4a.6}
+  - {type: punctuation, offset: 133, content: '[', id: KR2p0055_tls_001-bkkpn59}
+  - {type: punctuation, offset: 134, content: ']', id: KR2p0055_tls_001-bkkpn60}
+  - {type: punctuation, offset: 135, content: ',', id: KR2p0055_tls_001-bkkpn61}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR2p0055_tls_001-4a.7}
+  - {type: punctuation, offset: 137, content: '[', id: KR2p0055_tls_001-bkkpn62}
+  - {type: punctuation, offset: 138, content: ']', id: KR2p0055_tls_001-bkkpn63}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR2p0055_tls_001-4a.8}
+  - {type: punctuation, offset: 143, content: 【, id: KR2p0055_tls_001-bkkpn64}
+  - {type: punctuation, offset: 143, content: 】, id: KR2p0055_tls_001-bkkpn65}
+  - {type: xml-element, offset: 143, content: '', id: KR2p0055_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.4 (STRIP 10) MACHENGYUAN 5: 273 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 143, content: '', id: KR2p0055_tls_001-bkkxmlele9, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.5 (STRIPS 17, 20) MACHENGYUAN 5: 277, 279 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 143, content: '', id: KR2p0055_tls_001-5a}
+  - {type: 'tls:seg', offset: 143, content: '', id: KR2p0055_tls_001-5a.1}
+  - {type: punctuation, offset: 143, content: '[', id: KR2p0055_tls_001-bkkpn66}
+  - {type: punctuation, offset: 143, content: ']', id: KR2p0055_tls_001-bkkpn67}
+  - {type: punctuation, offset: 145, content: ',', id: KR2p0055_tls_001-bkkpn68}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR2p0055_tls_001-5a.2}
+  - {type: punctuation, offset: 147, content: ',', id: KR2p0055_tls_001-bkkpn69}
+  - {type: 'tls:seg', offset: 147, content: '', id: KR2p0055_tls_001-5a.3}
+  - {type: punctuation, offset: 152, content: '?', id: KR2p0055_tls_001-bkkpn70}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR2p0055_tls_001-5a.4}
+  - {type: punctuation, offset: 153, content: '!', id: KR2p0055_tls_001-bkkpn71}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR2p0055_tls_001-5a.5}
+  - {type: punctuation, offset: 156, content: ',', id: KR2p0055_tls_001-bkkpn72}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR2p0055_tls_001-5a.6}
+  - {type: punctuation, offset: 156, content: '[', id: KR2p0055_tls_001-bkkpn73}
+  - {type: punctuation, offset: 157, content: ']', id: KR2p0055_tls_001-bkkpn74}
+  - {type: punctuation, offset: 157, content: 【, id: KR2p0055_tls_001-bkkpn75}
+  - {type: punctuation, offset: 157, content: 】, id: KR2p0055_tls_001-bkkpn76}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR2p0055_tls_001-5a.7}
+  - {type: punctuation, offset: 162, content: ',', id: KR2p0055_tls_001-bkkpn77}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR2p0055_tls_001-5a.8}
+  - {type: punctuation, offset: 164, content: (, id: KR2p0055_tls_001-bkkpn78}
+  - {type: punctuation, offset: 165, content: ), id: KR2p0055_tls_001-bkkpn79}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR2p0055_tls_001-5a.9}
+  - {type: xml-element, offset: 171, content: '', id: KR2p0055_tls_001-bkkxmlele10, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.5 (STRIPS 17, 20) MACHENGYUAN 5: 277, 279 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 171, content: '', id: KR2p0055_tls_001-bkkxmlele11, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.6 (STRIPS 20, 4) MACHENGYUAN 5: 279, 269 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 171, content: '', id: KR2p0055_tls_001-6a}
+  - {type: 'tls:seg', offset: 171, content: '', id: KR2p0055_tls_001-6a.1}
+  - {type: punctuation, offset: 176, content: '[', id: KR2p0055_tls_001-bkkpn80}
+  - {type: punctuation, offset: 176, content: ']', id: KR2p0055_tls_001-bkkpn81}
+  - {type: punctuation, offset: 176, content: 【, id: KR2p0055_tls_001-bkkpn82}
+  - {type: punctuation, offset: 176, content: 】, id: KR2p0055_tls_001-bkkpn83}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR2p0055_tls_001-6a.2}
+  - {type: punctuation, offset: 176, content: '[', id: KR2p0055_tls_001-bkkpn84}
+  - {type: punctuation, offset: 176, content: ']', id: KR2p0055_tls_001-bkkpn85}
+  - {type: punctuation, offset: 178, content: ',', id: KR2p0055_tls_001-bkkpn86}
+  - {type: 'tls:seg', offset: 178, content: '', id: KR2p0055_tls_001-6a.3}
+  - {type: 'tls:seg', offset: 180, content: '', id: KR2p0055_tls_001-6a.4}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR2p0055_tls_001-6a.5}
+  - {type: punctuation, offset: 186, content: ',', id: KR2p0055_tls_001-bkkpn87}
+  - {type: 'tls:seg', offset: 186, content: '', id: KR2p0055_tls_001-6a.6}
+  - {type: punctuation, offset: 190, content: '?', id: KR2p0055_tls_001-bkkpn88}
+  - {type: punctuation, offset: 190, content: ”, id: KR2p0055_tls_001-bkkpn89}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR2p0055_tls_001-6a.7}
+  - {type: punctuation, offset: 190, content: “, id: KR2p0055_tls_001-bkkpn90}
+  - {type: punctuation, offset: 191, content: '!', id: KR2p0055_tls_001-bkkpn91}
+  - {type: punctuation, offset: 191, content: ”, id: KR2p0055_tls_001-bkkpn92}
+  - {type: 'tls:seg', offset: 191, content: '', id: KR2p0055_tls_001-6a.8}
+  - {type: punctuation, offset: 194, content: ':', id: KR2p0055_tls_001-bkkpn93}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR2p0055_tls_001-6a.9}
+  - {type: punctuation, offset: 194, content: “, id: KR2p0055_tls_001-bkkpn94}
+  - {type: punctuation, offset: 195, content: '!', id: KR2p0055_tls_001-bkkpn95}
+  - {type: punctuation, offset: 200, content: '!', id: KR2p0055_tls_001-bkkpn96}
+  - {type: punctuation, offset: 200, content: ”, id: KR2p0055_tls_001-bkkpn97}
+  - {type: xml-element, offset: 200, content: '', id: KR2p0055_tls_001-bkkxmlele12, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.6 (STRIPS 20, 4) MACHENGYUAN 5: 279, 269 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 200, content: '', id: KR2p0055_tls_001-bkkxmlele13, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.7 (STRIPS 4, 21, 22) MACHENGYUAN 5: 269 , 280 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 200, content: '', id: KR2p0055_tls_001-7a}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR2p0055_tls_001-7a.1}
+  - {type: punctuation, offset: 203, content: ':', id: KR2p0055_tls_001-bkkpn98}
+  - {type: 'tls:seg', offset: 203, content: '', id: KR2p0055_tls_001-7a.2}
+  - {type: punctuation, offset: 203, content: “, id: KR2p0055_tls_001-bkkpn99}
+  - {type: punctuation, offset: 205, content: '[', id: KR2p0055_tls_001-bkkpn100}
+  - {type: punctuation, offset: 206, content: ']', id: KR2p0055_tls_001-bkkpn101}
+  - {type: punctuation, offset: 210, content: '?', id: KR2p0055_tls_001-bkkpn102}
+  - {type: punctuation, offset: 210, content: ”, id: KR2p0055_tls_001-bkkpn103}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR2p0055_tls_001-7a.3}
+  - {type: punctuation, offset: 212, content: ':', id: KR2p0055_tls_001-bkkpn104}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR2p0055_tls_001-7a.4}
+  - {type: punctuation, offset: 213, content: 【, id: KR2p0055_tls_001-bkkpn105}
+  - {type: punctuation, offset: 213, content: 】, id: KR2p0055_tls_001-bkkpn106}
+  - {type: punctuation, offset: 217, content: '[', id: KR2p0055_tls_001-bkkpn107}
+  - {type: punctuation, offset: 218, content: ']', id: KR2p0055_tls_001-bkkpn108}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR2p0055_tls_001-7a.5}
+  - {type: punctuation, offset: 221, content: ',', id: KR2p0055_tls_001-bkkpn109}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR2p0055_tls_001-7a.6}
+  - {type: 'tls:seg', offset: 226, content: '', id: KR2p0055_tls_001-7a.7}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR2p0055_tls_001-7a.8}
+  - {type: punctuation, offset: 232, content: '[', id: KR2p0055_tls_001-bkkpn110}
+  - {type: punctuation, offset: 232, content: ']', id: KR2p0055_tls_001-bkkpn111}
+  - {type: xml-element, offset: 232, content: '', id: KR2p0055_tls_001-bkkxmlele14, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.7 (STRIPS 4, 21, 22) MACHENGYUAN 5: 269 , 280 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 232, content: '', id: KR2p0055_tls_001-bkkxmlele15, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.8 (STRIPS 22, 13) MACHENGYUAN 5: 280, 275 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 232, content: '', id: KR2p0055_tls_001-8a}
+  - {type: 'tls:seg', offset: 232, content: '', id: KR2p0055_tls_001-8a.1}
+  - {type: punctuation, offset: 232, content: '[', id: KR2p0055_tls_001-bkkpn112}
+  - {type: punctuation, offset: 232, content: ']', id: KR2p0055_tls_001-bkkpn113}
+  - {type: punctuation, offset: 236, content: ':', id: KR2p0055_tls_001-bkkpn114}
+  - {type: punctuation, offset: 236, content: '[', id: KR2p0055_tls_001-bkkpn115}
+  - {type: punctuation, offset: 236, content: ']', id: KR2p0055_tls_001-bkkpn116}
+  - {type: 'tls:seg', offset: 236, content: '', id: KR2p0055_tls_001-8a.2}
+  - {type: punctuation, offset: 236, content: “, id: KR2p0055_tls_001-bkkpn117}
+  - {type: punctuation, offset: 237, content: ',', id: KR2p0055_tls_001-bkkpn118}
+  - {type: 'tls:seg', offset: 242, content: '', id: KR2p0055_tls_001-8a.3}
+  - {type: punctuation, offset: 246, content: ',', id: KR2p0055_tls_001-bkkpn119}
+  - {type: 'tls:seg', offset: 246, content: '', id: KR2p0055_tls_001-8a.4}
+  - {type: punctuation, offset: 249, content: '[', id: KR2p0055_tls_001-bkkpn120}
+  - {type: punctuation, offset: 249, content: ']', id: KR2p0055_tls_001-bkkpn121}
+  - {type: punctuation, offset: 249, content: 【, id: KR2p0055_tls_001-bkkpn122}
+  - {type: punctuation, offset: 249, content: 】, id: KR2p0055_tls_001-bkkpn123}
+  - {type: 'tls:seg', offset: 249, content: '', id: KR2p0055_tls_001-8a.5}
+  - {type: punctuation, offset: 249, content: '[', id: KR2p0055_tls_001-bkkpn124}
+  - {type: punctuation, offset: 251, content: ']', id: KR2p0055_tls_001-bkkpn125}
+  - {type: punctuation, offset: 253, content: ',', id: KR2p0055_tls_001-bkkpn126}
+  - {type: 'tls:seg', offset: 253, content: '', id: KR2p0055_tls_001-8a.6}
+  - {type: punctuation, offset: 259, content: ”, id: KR2p0055_tls_001-bkkpn127}
+  - {type: xml-element, offset: 259, content: '', id: KR2p0055_tls_001-bkkxmlele16, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.8 (STRIPS 22, 13) MACHENGYUAN 5: 280, 275 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 259, content: '', id: KR2p0055_tls_001-bkkxmlele17, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.9 (STRIPS 13, 12) MACHENGYUAN 5: 275 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 259, content: '', id: KR2p0055_tls_001-9a}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR2p0055_tls_001-9a.1}
+  - {type: punctuation, offset: 261, content: ':', id: KR2p0055_tls_001-bkkpn128}
+  - {type: 'tls:seg', offset: 261, content: '', id: KR2p0055_tls_001-9a.2}
+  - {type: punctuation, offset: 261, content: “, id: KR2p0055_tls_001-bkkpn129}
+  - {type: punctuation, offset: 267, content: ',', id: KR2p0055_tls_001-bkkpn130}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR2p0055_tls_001-9a.3}
+  - {type: punctuation, offset: 271, content: ',', id: KR2p0055_tls_001-bkkpn131}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR2p0055_tls_001-9a.4}
+  - {type: punctuation, offset: 272, content: 【, id: KR2p0055_tls_001-bkkpn132}
+  - {type: punctuation, offset: 272, content: 】, id: KR2p0055_tls_001-bkkpn133}
+  - {type: punctuation, offset: 272, content: '[', id: KR2p0055_tls_001-bkkpn134}
+  - {type: punctuation, offset: 272, content: ']', id: KR2p0055_tls_001-bkkpn135}
+  - {type: punctuation, offset: 273, content: ',', id: KR2p0055_tls_001-bkkpn136}
+  - {type: 'tls:seg', offset: 273, content: '', id: KR2p0055_tls_001-9a.5}
+  - {type: 'tls:seg', offset: 277, content: '', id: KR2p0055_tls_001-9a.6}
+  - {type: punctuation, offset: 281, content: ',', id: KR2p0055_tls_001-bkkpn137}
+  - {type: 'tls:seg', offset: 281, content: '', id: KR2p0055_tls_001-9a.7}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR2p0055_tls_001-9a.8}
+  - {type: punctuation, offset: 289, content: ',', id: KR2p0055_tls_001-bkkpn138}
+  - {type: 'tls:seg', offset: 289, content: '', id: KR2p0055_tls_001-9a.9}
+  - {type: punctuation, offset: 293, content: ”, id: KR2p0055_tls_001-bkkpn139}
+  - {type: xml-element, offset: 293, content: '', id: KR2p0055_tls_001-bkkxmlele18, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.9 (STRIPS 13, 12) MACHENGYUAN 5: 275 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 293, content: '', id: KR2p0055_tls_001-bkkxmlele19, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.10 (STRIPS 12, 15, 16) MACHENGYUAN 5: 275, 276, 277 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 293, content: '', id: KR2p0055_tls_001-10a}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR2p0055_tls_001-10a.1}
+  - {type: punctuation, offset: 294, content: 【, id: KR2p0055_tls_001-bkkpn140}
+  - {type: punctuation, offset: 294, content: 】, id: KR2p0055_tls_001-bkkpn141}
+  - {type: punctuation, offset: 295, content: ':', id: KR2p0055_tls_001-bkkpn142}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR2p0055_tls_001-10a.2}
+  - {type: punctuation, offset: 295, content: “, id: KR2p0055_tls_001-bkkpn143}
+  - {type: punctuation, offset: 296, content: '!', id: KR2p0055_tls_001-bkkpn144}
+  - {type: punctuation, offset: 297, content: ',', id: KR2p0055_tls_001-bkkpn145}
+  - {type: 'tls:seg', offset: 297, content: '', id: KR2p0055_tls_001-10a.3}
+  - {type: 'tls:seg', offset: 300, content: '', id: KR2p0055_tls_001-10a.4}
+  - {type: substitution, offset: 302, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 304, content: '?', id: KR2p0055_tls_001-bkkpn146}
+  - {type: 'tls:seg', offset: 304, content: '', id: KR2p0055_tls_001-10a.5}
+  - {type: 'tls:seg', offset: 307, content: '', id: KR2p0055_tls_001-10a.6}
+  - {type: punctuation, offset: 311, content: ',', id: KR2p0055_tls_001-bkkpn147}
+  - {type: punctuation, offset: 312, content: 【, id: KR2p0055_tls_001-bkkpn148}
+  - {type: punctuation, offset: 312, content: 】, id: KR2p0055_tls_001-bkkpn149}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR2p0055_tls_001-10a.7}
+  - {type: punctuation, offset: 312, content: '[', id: KR2p0055_tls_001-bkkpn150}
+  - {type: punctuation, offset: 312, content: ']', id: KR2p0055_tls_001-bkkpn151}
+  - {type: punctuation, offset: 314, content: ”, id: KR2p0055_tls_001-bkkpn152}
+  - {type: punctuation, offset: 314, content: '[', id: KR2p0055_tls_001-bkkpn153}
+  - {type: punctuation, offset: 314, content: ']', id: KR2p0055_tls_001-bkkpn154}
+  - {type: xml-element, offset: 314, content: '', id: KR2p0055_tls_001-bkkxmlele20, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.10 (STRIPS 12, 15, 16) MACHENGYUAN 5: 275, 276, 277 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 314, content: '', id: KR2p0055_tls_001-bkkxmlele21, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.11 (STRIP 16) MACHENGYUAN 5: 277 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 314, content: '', id: KR2p0055_tls_001-11a}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR2p0055_tls_001-11a.1}
+  - {type: punctuation, offset: 316, content: ':', id: KR2p0055_tls_001-bkkpn155}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR2p0055_tls_001-11a.2}
+  - {type: punctuation, offset: 316, content: “, id: KR2p0055_tls_001-bkkpn156}
+  - {type: punctuation, offset: 318, content: “, id: KR2p0055_tls_001-bkkpn157}
+  - {type: 'tls:seg', offset: 318, content: '', id: KR2p0055_tls_001-11a.3}
+  - {type: punctuation, offset: 320, content: ',', id: KR2p0055_tls_001-bkkpn158}
+  - {type: 'tls:seg', offset: 320, content: '', id: KR2p0055_tls_001-11a.4}
+  - {type: 'tls:seg', offset: 322, content: '', id: KR2p0055_tls_001-11a.5}
+  - {type: 'tls:seg', offset: 324, content: '', id: KR2p0055_tls_001-11a.6}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR2p0055_tls_001-11a.7}
+  - {type: punctuation, offset: 328, content: ',', id: KR2p0055_tls_001-bkkpn159}
+  - {type: 'tls:seg', offset: 328, content: '', id: KR2p0055_tls_001-11a.8}
+  - {type: punctuation, offset: 331, content: '[', id: KR2p0055_tls_001-bkkpn160}
+  - {type: punctuation, offset: 331, content: ']', id: KR2p0055_tls_001-bkkpn161}
+  - {type: punctuation, offset: 331, content: 【, id: KR2p0055_tls_001-bkkpn162}
+  - {type: punctuation, offset: 331, content: 】, id: KR2p0055_tls_001-bkkpn163}
+  - {type: xml-element, offset: 331, content: '', id: KR2p0055_tls_001-bkkxmlele22, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.11 (STRIP 16) MACHENGYUAN 5: 277 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 331, content: '', id: KR2p0055_tls_001-bkkxmlele23, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.12 (STRIPS 5, 6) MACHENGYUAN 5: 270, 271 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 331, content: '', id: KR2p0055_tls_001-12a}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR2p0055_tls_001-12a.1}
+  - {type: punctuation, offset: 331, content: '[', id: KR2p0055_tls_001-bkkpn164}
+  - {type: punctuation, offset: 331, content: ']', id: KR2p0055_tls_001-bkkpn165}
+  - {type: punctuation, offset: 332, content: ',', id: KR2p0055_tls_001-bkkpn166}
+  - {type: punctuation, offset: 337, content: ”, id: KR2p0055_tls_001-bkkpn167}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR2p0055_tls_001-12a.2}
+  - {type: punctuation, offset: 339, content: ':', id: KR2p0055_tls_001-bkkpn168}
+  - {type: 'tls:seg', offset: 339, content: '', id: KR2p0055_tls_001-12a.3}
+  - {type: punctuation, offset: 339, content: “, id: KR2p0055_tls_001-bkkpn169}
+  - {type: punctuation, offset: 342, content: ',', id: KR2p0055_tls_001-bkkpn170}
+  - {type: 'tls:seg', offset: 342, content: '', id: KR2p0055_tls_001-12a.4}
+  - {type: punctuation, offset: 345, content: ':', id: KR2p0055_tls_001-bkkpn171}
+  - {type: 'tls:seg', offset: 345, content: '', id: KR2p0055_tls_001-12a.5}
+  - {type: punctuation, offset: 350, content: ',', id: KR2p0055_tls_001-bkkpn172}
+  - {type: 'tls:seg', offset: 350, content: '', id: KR2p0055_tls_001-12a.6}
+  - {type: punctuation, offset: 355, content: ',', id: KR2p0055_tls_001-bkkpn173}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR2p0055_tls_001-12a.7}
+  - {type: punctuation, offset: 358, content: 【, id: KR2p0055_tls_001-bkkpn174}
+  - {type: punctuation, offset: 358, content: 】, id: KR2p0055_tls_001-bkkpn175}
+  - {type: punctuation, offset: 358, content: '[', id: KR2p0055_tls_001-bkkpn176}
+  - {type: punctuation, offset: 358, content: ']', id: KR2p0055_tls_001-bkkpn177}
+  - {type: 'tls:seg', offset: 358, content: '', id: KR2p0055_tls_001-12a.8}
+  - {type: punctuation, offset: 358, content: '[', id: KR2p0055_tls_001-bkkpn178}
+  - {type: punctuation, offset: 358, content: ']', id: KR2p0055_tls_001-bkkpn179}
+  - {type: punctuation, offset: 359, content: ”, id: KR2p0055_tls_001-bkkpn180}
+  - {type: xml-element, offset: 359, content: '', id: KR2p0055_tls_001-bkkxmlele24, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.12 (STRIPS 5, 6) MACHENGYUAN 5: 270, 271 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 359, content: '', id: KR2p0055_tls_001-bkkxmlele25, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.13 (STRIPS 6, 9) MACHENGYUAN 5: 271, 273 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 359, content: '', id: KR2p0055_tls_001-13a}
+  - {type: 'tls:seg', offset: 359, content: '', id: KR2p0055_tls_001-13a.1}
+  - {type: punctuation, offset: 361, content: ':', id: KR2p0055_tls_001-bkkpn181}
+  - {type: 'tls:seg', offset: 361, content: '', id: KR2p0055_tls_001-13a.2}
+  - {type: punctuation, offset: 361, content: “, id: KR2p0055_tls_001-bkkpn182}
+  - {type: 'tls:seg', offset: 363, content: '', id: KR2p0055_tls_001-13a.3}
+  - {type: punctuation, offset: 367, content: ',', id: KR2p0055_tls_001-bkkpn183}
+  - {type: 'tls:seg', offset: 367, content: '', id: KR2p0055_tls_001-13a.4}
+  - {type: punctuation, offset: 371, content: ',', id: KR2p0055_tls_001-bkkpn184}
+  - {type: 'tls:seg', offset: 371, content: '', id: KR2p0055_tls_001-13a.5}
+  - {type: 'tls:seg', offset: 373, content: '', id: KR2p0055_tls_001-13a.6}
+  - {type: punctuation, offset: 377, content: ',', id: KR2p0055_tls_001-bkkpn185}
+  - {type: 'tls:seg', offset: 377, content: '', id: KR2p0055_tls_001-13a.7}
+  - {type: 'tls:seg', offset: 379, content: '', id: KR2p0055_tls_001-13a.8}
+  - {type: punctuation, offset: 380, content: '[', id: KR2p0055_tls_001-bkkpn186}
+  - {type: punctuation, offset: 384, content: ”, id: KR2p0055_tls_001-bkkpn187}
+  - {type: punctuation, offset: 384, content: ']', id: KR2p0055_tls_001-bkkpn188}
+  - {type: punctuation, offset: 384, content: 【, id: KR2p0055_tls_001-bkkpn189}
+  - {type: punctuation, offset: 384, content: 】, id: KR2p0055_tls_001-bkkpn190}
+  - {type: 'tls:seg', offset: 384, content: '', id: KR2p0055_tls_001-13a.9}
+  - {type: punctuation, offset: 384, content: '[', id: KR2p0055_tls_001-bkkpn191}
+  - {type: punctuation, offset: 384, content: ']', id: KR2p0055_tls_001-bkkpn192}
+  - {type: punctuation, offset: 385, content: ',', id: KR2p0055_tls_001-bkkpn193}
+  - {type: 'tls:seg', offset: 385, content: '', id: KR2p0055_tls_001-13a.10}
+  - {type: punctuation, offset: 389, content: ',', id: KR2p0055_tls_001-bkkpn194}
+  - {type: 'tls:seg', offset: 389, content: '', id: KR2p0055_tls_001-13a.11}
+  - {type: 'tls:seg', offset: 390, content: '', id: KR2p0055_tls_001-13a.12}
+  - {type: punctuation, offset: 394, content: ',', id: KR2p0055_tls_001-bkkpn195}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR2p0055_tls_001-13a.13}
+  - {type: 'tls:seg', offset: 396, content: '', id: KR2p0055_tls_001-13a.14}
+  - {type: punctuation, offset: 401, content: ”, id: KR2p0055_tls_001-bkkpn196}
+  - {type: xml-element, offset: 401, content: '', id: KR2p0055_tls_001-bkkxmlele26, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.13 (STRIPS 6, 9) MACHENGYUAN 5: 271, 273 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 401, content: '', id: KR2p0055_tls_001-bkkxmlele27, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.14 (STRIP 9) MACHENGYUAN 5: 273 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 401, content: '', id: KR2p0055_tls_001-14a}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR2p0055_tls_001-14a.1}
+  - {type: punctuation, offset: 403, content: ':', id: KR2p0055_tls_001-bkkpn197}
+  - {type: 'tls:seg', offset: 403, content: '', id: KR2p0055_tls_001-14a.2}
+  - {type: punctuation, offset: 403, content: “, id: KR2p0055_tls_001-bkkpn198}
+  - {type: punctuation, offset: 407, content: ',', id: KR2p0055_tls_001-bkkpn199}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR2p0055_tls_001-14a.3}
+  - {type: punctuation, offset: 411, content: 【, id: KR2p0055_tls_001-bkkpn200}
+  - {type: punctuation, offset: 411, content: 】, id: KR2p0055_tls_001-bkkpn201}
+  - {type: xml-element, offset: 411, content: '', id: KR2p0055_tls_001-bkkxmlele28, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.14 (STRIP 9) MACHENGYUAN 5: 273 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 411, content: '', id: KR2p0055_tls_001-bkkxmlele29, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.15 (STRIP 11) MACHENGYUAN 5: 274 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 411, content: '', id: KR2p0055_tls_001-15a}
+  - {type: 'tls:seg', offset: 411, content: '', id: KR2p0055_tls_001-15a.1}
+  - {type: punctuation, offset: 412, content: ':', id: KR2p0055_tls_001-bkkpn202}
+  - {type: 'tls:seg', offset: 412, content: '', id: KR2p0055_tls_001-15a.2}
+  - {type: punctuation, offset: 412, content: “, id: KR2p0055_tls_001-bkkpn203}
+  - {type: punctuation, offset: 416, content: ',', id: KR2p0055_tls_001-bkkpn204}
+  - {type: 'tls:seg', offset: 416, content: '', id: KR2p0055_tls_001-15a.3}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR2p0055_tls_001-15a.4}
+  - {type: punctuation, offset: 421, content: '[', id: KR2p0055_tls_001-bkkpn205}
+  - {type: punctuation, offset: 421, content: ']', id: KR2p0055_tls_001-bkkpn206}
+  - {type: punctuation, offset: 424, content: ',', id: KR2p0055_tls_001-bkkpn207}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR2p0055_tls_001-15a.5}
+  - {type: punctuation, offset: 424, content: '[', id: KR2p0055_tls_001-bkkpn208}
+  - {type: punctuation, offset: 424, content: ']', id: KR2p0055_tls_001-bkkpn209}
+  - {type: 'tls:seg', offset: 427, content: '', id: KR2p0055_tls_001-15a.6}
+  - {type: punctuation, offset: 427, content: '[', id: KR2p0055_tls_001-bkkpn210}
+  - {type: punctuation, offset: 427, content: ']', id: KR2p0055_tls_001-bkkpn211}
+  - {type: punctuation, offset: 431, content: ”, id: KR2p0055_tls_001-bkkpn212}
+  - {type: xml-element, offset: 431, content: '', id: KR2p0055_tls_001-bkkxmlele30, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.15 (STRIP 11) MACHENGYUAN 5: 274 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 431, content: '', id: KR2p0055_tls_001-bkkxmlele31, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.16 (STRIPS 11, 24) MACHENGYUAN 5: 274, 281 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 431, content: '', id: KR2p0055_tls_001-16a}
+  - {type: 'tls:seg', offset: 431, content: '', id: KR2p0055_tls_001-16a.1}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR2p0055_tls_001-16a.2}
+  - {type: punctuation, offset: 437, content: ':', id: KR2p0055_tls_001-bkkpn213}
+  - {type: 'tls:seg', offset: 437, content: '', id: KR2p0055_tls_001-16a.3}
+  - {type: punctuation, offset: 437, content: “, id: KR2p0055_tls_001-bkkpn214}
+  - {type: substitution, offset: 437, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
+  - {type: punctuation, offset: 438, content: '!', id: KR2p0055_tls_001-bkkpn215}
+  - {type: punctuation, offset: 444, content: ',', id: KR2p0055_tls_001-bkkpn216}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR2p0055_tls_001-16a.4}
+  - {type: punctuation, offset: 447, content: ',', id: KR2p0055_tls_001-bkkpn217}
+  - {type: 'tls:seg', offset: 447, content: '', id: KR2p0055_tls_001-16a.5}
+  - {type: punctuation, offset: 451, content: '?', id: KR2p0055_tls_001-bkkpn218}
+  - {type: punctuation, offset: 451, content: 【, id: KR2p0055_tls_001-bkkpn219}
+  - {type: punctuation, offset: 451, content: 】, id: KR2p0055_tls_001-bkkpn220}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR2p0055_tls_001-16a.6}
+  - {type: punctuation, offset: 455, content: ”, id: KR2p0055_tls_001-bkkpn221}
+  - {type: punctuation, offset: 455, content: 【, id: KR2p0055_tls_001-bkkpn222}
+  - {type: punctuation, offset: 455, content: 】, id: KR2p0055_tls_001-bkkpn223}
+  - {type: xml-element, offset: 455, content: '', id: KR2p0055_tls_001-bkkxmlele32, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.16 (STRIPS 11, 24) MACHENGYUAN 5: 274, 281 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 455, content: '', id: KR2p0055_tls_001-bkkxmlele33, name: p, role: open, attrs: {source: 'SHANGBO.DIZIWEN 5.26.17 (STRIP 19) MACHENGYUAN 5:278 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 455, content: '', id: KR2p0055_tls_001-17a}
+  - {type: 'tls:seg', offset: 455, content: '', id: KR2p0055_tls_001-17a.1}
+  - {type: punctuation, offset: 456, content: ',', id: KR2p0055_tls_001-bkkpn224}
+  - {type: punctuation, offset: 461, content: ',', id: KR2p0055_tls_001-bkkpn225}
+  - {type: 'tls:seg', offset: 461, content: '', id: KR2p0055_tls_001-17a.2}
+  - {type: punctuation, offset: 466, content: ;, id: KR2p0055_tls_001-bkkpn226}
+  - {type: 'tls:seg', offset: 466, content: '', id: KR2p0055_tls_001-17a.3}
+  - {type: punctuation, offset: 471, content: ',', id: KR2p0055_tls_001-bkkpn227}
+  - {type: 'tls:seg', offset: 471, content: '', id: KR2p0055_tls_001-17a.4}
+  - {type: punctuation, offset: 476, content: ;, id: KR2p0055_tls_001-bkkpn228}
+  - {type: 'tls:seg', offset: 476, content: '', id: KR2p0055_tls_001-17a.5}
+  - {type: punctuation, offset: 478, content: 【, id: KR2p0055_tls_001-bkkpn229}
+  - {type: punctuation, offset: 478, content: 】, id: KR2p0055_tls_001-bkkpn230}
+  - {type: punctuation, offset: 478, content: '[', id: KR2p0055_tls_001-bkkpn231}
+  - {type: punctuation, offset: 478, content: ']', id: KR2p0055_tls_001-bkkpn232}
+  - {type: xml-element, offset: 478, content: '', id: KR2p0055_tls_001-bkkxmlele34, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.17 (STRIP 19) MACHENGYUAN 5:278 TR. MARCO CABOARA'}}
+  back: []
+hash: sha256:889b8fe0635083697bea2f4ee273c10a5fed45d991d93fb71666b7c0067fd15e
