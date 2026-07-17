@@ -20,10 +20,12 @@ markers:
   - {type: punctuation, offset: 25, content: ',', id: KR2p0055_tls_001-bkkpn6}
   - {type: 'tls:seg', offset: 25, content: '', id: KR2p0055_tls_001-1a.8}
   - {type: punctuation, offset: 29, content: (, id: KR2p0055_tls_001-bkkpn7}
+  - {type: voice, offset: 29, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 30, content: ), id: KR2p0055_tls_001-bkkpn8}
   - {type: punctuation, offset: 30, content: ',', id: KR2p0055_tls_001-bkkpn9}
   - {type: 'tls:seg', offset: 30, content: '', id: KR2p0055_tls_001-1a.9}
   - {type: punctuation, offset: 35, content: (, id: KR2p0055_tls_001-bkkpn10}
+  - {type: voice, offset: 35, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 36, content: ), id: KR2p0055_tls_001-bkkpn11}
   - {type: 'tls:seg', offset: 36, content: '', id: KR2p0055_tls_001-1a.10}
   - {type: 'tls:seg', offset: 39, content: '', id: KR2p0055_tls_001-1a.11}
@@ -142,6 +144,7 @@ markers:
   - {type: punctuation, offset: 162, content: ',', id: KR2p0055_tls_001-bkkpn77}
   - {type: 'tls:seg', offset: 162, content: '', id: KR2p0055_tls_001-5a.8}
   - {type: punctuation, offset: 164, content: (, id: KR2p0055_tls_001-bkkpn78}
+  - {type: voice, offset: 164, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 165, content: ), id: KR2p0055_tls_001-bkkpn79}
   - {type: 'tls:seg', offset: 168, content: '', id: KR2p0055_tls_001-5a.9}
   - {type: xml-element, offset: 171, content: '', id: KR2p0055_tls_001-bkkxmlele10, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.5 (STRIPS 17, 20) MACHENGYUAN 5: 277, 279 TR. MARCO CABOARA'}}
@@ -424,4 +427,4 @@ markers:
   - {type: punctuation, offset: 478, content: ']', id: KR2p0055_tls_001-bkkpn232}
   - {type: xml-element, offset: 478, content: '', id: KR2p0055_tls_001-bkkxmlele34, name: p, role: close, attrs: {source: 'SHANGBO.DIZIWEN 5.26.17 (STRIP 19) MACHENGYUAN 5:278 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:8e2f4189ad21f9b70da65a81a8a6509ce3f63bfcfea8dd817980b9dde13bb499
+hash: sha256:d8c9dd2ac9680f0af2555b5b1faedd3fbac61eea7aaa1a78d2501048479b2c28
